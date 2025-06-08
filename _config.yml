@@ -7,7 +7,7 @@ description: La nueva voz de la noticia en Neuquén.
 # La URL de Netlify debe ser la que Netlify te asignó (o tu dominio personalizado cuando lo tengas)
 # baseurl debe estar vacío si el sitio está en la raíz del dominio
 baseurl: ""
-url: "https://tangerine-biscochitos-e8df8e.netlify.app" # <--- ¡CAMBIA ESTA LÍNEA!
+url: "https://magnificent-donut-d2c70c.netlify.app/" # <--- ¡CAMBIA ESTA LÍNEA!
 
 markdown: kramdown
 
